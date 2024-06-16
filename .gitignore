@@ -1,0 +1,7 @@
+
+*.meta
+/Library/PackageCache
+/Logs
+/Library/ShaderCache
+/Library/StateCache
+/Library/BurstCache
